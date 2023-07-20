@@ -8,7 +8,7 @@ from csv import reader
 from random import choice
 import webbrowser
 
-fileName = ('C:\\Users\\u7144140\\Downloads\\videos.csv')
+fileName = ('videos.csv')
 file = open(fileName)
 
 top = Tk()
